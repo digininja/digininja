@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+If I ever get time I'll write something meaningful here. For now, I'm either hacking, coding or off doing something outdoors to get away from all the technology.
+
 <!--
 **digininja/digininja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
