@@ -2,6 +2,11 @@
 
 If I ever get time I'll write something meaningful here. For now, I'm either hacking, coding or off doing something outdoors to get away from all the technology.
 
+If you like my work, you can [Buy me a smoothie](https://www.buymeacoffee.com/digininja)*.
+
+
+\* I don't drink coffee
+
 <!--
 **digininja/digininja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
